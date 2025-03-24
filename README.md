@@ -28,12 +28,12 @@
 ## 📥 Instalasi  
 1. **Clone repository**  
 ```bash
-git clone https://github.com/USERNAME/FAKE-VIDEO-PLAYER-TRACKING.git
+git clone https://github.com/afifanant/fake-video-player.git
 ```
 
 2. **Masuk ke direktori proyek**  
 ```bash
-cd FAKE-VIDEO-PLAYER-TRACKING
+cd fake-video-player
 ```
 
 3. **Jalankan di localhost**  
