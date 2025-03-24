@@ -8,7 +8,7 @@
 👉 **[Lihat Demo di Sini](https://d00dstream.netlify.app/)**  
 
 ## 📸 Screenshot  
-![Screenshot](./screenshot.png)  
+![Screenshot](./Screenshot.png)  
 
 ## 🎯 Fitur  
 ✅ Tampilan pemutar video yang realistis  
