@@ -1,7 +1,5 @@
 # 🎬 Fake Video Player  
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-NETLIFY-BADGE-ID/deploy-status)](https://d00dstream.netlify.app/)
-
 **Fake Video Player** adalah proyek pemutar video palsu yang dibuat untuk tujuan pengujian dan pengembangan UI/UX. Proyek ini menampilkan antarmuka pemutar video yang realistis tanpa benar-benar memutar video.
 
 ## 🚀 Demo  
